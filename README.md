@@ -32,6 +32,7 @@ Double check this, since "works on this model" actually means "worked back then"
 
 | Variant | Model      | Firmware | Status | Commit                                                                                        | Source                                                                                                   |
 |---------|------------|----------|:------:|:---------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------|
+| FAT     | CECH-A01   | 4.89     | ✅     | [0c4b895](https://github.com/Pineapple-Geek/bgtoolset/commit/0c4b8954371819436ee2c06679387dc7df903b11) | E-mail info                                                                                     |
 | SLIM    | CECH-2503B | 4.88     | ✅     | [68f4c41](https://github.com/ajgon/bgtoolset/commit/68f4c41c68178e4e33ac2ef36650468e5111dc7d) | E-mail info                                                                                              |
 | SLIM    | CECH-2504  | 4.88     | ✅     | [68f4c41](https://github.com/ajgon/bgtoolset/commit/68f4c41c68178e4e33ac2ef36650468e5111dc7d) | [Twitter](https://twitter.com/leerz25/status/1555749812988809216#m)                                      |
 | FAT     | CECH-J03   | 4.87     | ✅     | [68f4c41](https://github.com/ajgon/bgtoolset/commit/68f4c41c68178e4e33ac2ef36650468e5111dc7d) | ajgon                                                                                                    |
